@@ -8,7 +8,7 @@ How to download all of files in this repository.
 
 $ git clone https://github.com/2sungryul/simulation.git
 
-How to create udev rules for rplidar and U2D2
+How to create udev rules for rplidar and U2D2 on Jetson nano
 
 $ wget https://github.com/2sungryul/simulation/blob/main/usb2uart.rules
 
