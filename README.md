@@ -8,6 +8,12 @@ How to download all of files in this repository.
 
 $ git clone https://github.com/2sungryul/simulation.git
 
+How to check vendor id and product id for usb devies
+
+$ lsusb
+
+![image](https://github.com/2sungryul/simulation/assets/67367753/9dc8b13c-c6cb-4fd4-b42f-721e83bc2311)
+
 How to create udev rules for rplidar and U2D2 on Jetson nano
 
 $ wget https://github.com/2sungryul/simulation/blob/main/usb2uart.rules
