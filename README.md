@@ -21,7 +21,9 @@ $ sudo service udev restart
 $ sudo reboot
 
 $ ls -l /dev/rplidar
+
 ![image](https://github.com/2sungryul/simulation/assets/67367753/e7b3d3a6-798b-4614-bf43-a63a0d0acb5f)
 
 $ ls -l /dev/u2d2
+
 ![image](https://github.com/2sungryul/simulation/assets/67367753/c5de696c-532a-4518-8632-a345c956452c)
