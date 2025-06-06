@@ -12,7 +12,7 @@ $ lsusb
 
 How to create udev rules for rplidar C1 and U2D2 on Jetson nano
 
-$ wget https://github.com/2sungryul/simulation/blob/main/usb2uart.rules
+$ wget  https://raw.githubusercontent.com/2sungryul/simulation/refs/heads/main/usb2uart.rules
 
 $ cp usb2uart.rules /etc/udev/rules.d
 
